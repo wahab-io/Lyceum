@@ -1,0 +1,51 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "0bc3cf4e1ab899d16cf492dd4a3329b99caa4c25"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Lyceum.Console/1.0.0": {
+        "dependencies": {
+          "Lyceum.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Lyceum.Console.dll": {}
+        }
+      },
+      "Guards/1.0.14": {
+        "runtime": {
+          "lib/net45/Guards.dll": {}
+        }
+      },
+      "Lyceum.Domain/1.0.0": {
+        "dependencies": {
+          "Guards": "1.0.14"
+        },
+        "runtime": {
+          "Lyceum.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lyceum.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Guards/1.0.14": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ulwm77zkweSYn+Vk4U2Y9wn4+4bmXcSTnnvQwlVWeh5QvDDsI7to8Ro01v1hUgA/eET8HPXWgvQhtDpFcprkeA==",
+      "path": "guards/1.0.14",
+      "hashPath": "guards.1.0.14.nupkg.sha512"
+    },
+    "Lyceum.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

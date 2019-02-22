@@ -1,0 +1,8 @@
+/Users/wahabsyed/src/Lyceum/src/Lyceum.Domain/obj/Debug/netstandard2.0/Lyceum.Domain.csproj.CoreCompileInputs.cache
+/Users/wahabsyed/src/Lyceum/src/Lyceum.Domain/obj/Debug/netstandard2.0/Lyceum.Domain.AssemblyInfoInputs.cache
+/Users/wahabsyed/src/Lyceum/src/Lyceum.Domain/obj/Debug/netstandard2.0/Lyceum.Domain.AssemblyInfo.cs
+/Users/wahabsyed/src/Lyceum/src/Lyceum.Domain/bin/Debug/netstandard2.0/Lyceum.Domain.deps.json
+/Users/wahabsyed/src/Lyceum/src/Lyceum.Domain/bin/Debug/netstandard2.0/Lyceum.Domain.dll
+/Users/wahabsyed/src/Lyceum/src/Lyceum.Domain/bin/Debug/netstandard2.0/Lyceum.Domain.pdb
+/Users/wahabsyed/src/Lyceum/src/Lyceum.Domain/obj/Debug/netstandard2.0/Lyceum.Domain.dll
+/Users/wahabsyed/src/Lyceum/src/Lyceum.Domain/obj/Debug/netstandard2.0/Lyceum.Domain.pdb

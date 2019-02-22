@@ -1,0 +1,12 @@
+/Users/wahabsyed/src/Lyceum/src/Lyceum.Console/obj/Debug/netcoreapp2.0/Lyceum.Console.csproj.CoreCompileInputs.cache
+/Users/wahabsyed/src/Lyceum/src/Lyceum.Console/obj/Debug/netcoreapp2.0/Lyceum.Console.AssemblyInfoInputs.cache
+/Users/wahabsyed/src/Lyceum/src/Lyceum.Console/obj/Debug/netcoreapp2.0/Lyceum.Console.AssemblyInfo.cs
+/Users/wahabsyed/src/Lyceum/src/Lyceum.Console/bin/Debug/netcoreapp2.0/Lyceum.Console.deps.json
+/Users/wahabsyed/src/Lyceum/src/Lyceum.Console/bin/Debug/netcoreapp2.0/Lyceum.Console.runtimeconfig.json
+/Users/wahabsyed/src/Lyceum/src/Lyceum.Console/bin/Debug/netcoreapp2.0/Lyceum.Console.runtimeconfig.dev.json
+/Users/wahabsyed/src/Lyceum/src/Lyceum.Console/bin/Debug/netcoreapp2.0/Lyceum.Console.dll
+/Users/wahabsyed/src/Lyceum/src/Lyceum.Console/bin/Debug/netcoreapp2.0/Lyceum.Console.pdb
+/Users/wahabsyed/src/Lyceum/src/Lyceum.Console/obj/Debug/netcoreapp2.0/Lyceum.Console.dll
+/Users/wahabsyed/src/Lyceum/src/Lyceum.Console/obj/Debug/netcoreapp2.0/Lyceum.Console.pdb
+/Users/wahabsyed/src/Lyceum/src/Lyceum.Console/bin/Debug/netcoreapp2.0/Lyceum.Domain.dll
+/Users/wahabsyed/src/Lyceum/src/Lyceum.Console/bin/Debug/netcoreapp2.0/Lyceum.Domain.pdb

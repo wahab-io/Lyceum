@@ -1,0 +1,13 @@
+/Users/wahabsyed/src/Lyceum/src/Lyceum.Domain.Tests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/wahabsyed/src/Lyceum/src/Lyceum.Domain.Tests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/wahabsyed/src/Lyceum/src/Lyceum.Domain.Tests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/wahabsyed/src/Lyceum/src/Lyceum.Domain.Tests/bin/Debug/netcoreapp2.0/Lyceum.Domain.Tests.deps.json
+/Users/wahabsyed/src/Lyceum/src/Lyceum.Domain.Tests/bin/Debug/netcoreapp2.0/Lyceum.Domain.Tests.runtimeconfig.json
+/Users/wahabsyed/src/Lyceum/src/Lyceum.Domain.Tests/bin/Debug/netcoreapp2.0/Lyceum.Domain.Tests.runtimeconfig.dev.json
+/Users/wahabsyed/src/Lyceum/src/Lyceum.Domain.Tests/bin/Debug/netcoreapp2.0/Lyceum.Domain.Tests.dll
+/Users/wahabsyed/src/Lyceum/src/Lyceum.Domain.Tests/bin/Debug/netcoreapp2.0/Lyceum.Domain.Tests.pdb
+/Users/wahabsyed/src/Lyceum/src/Lyceum.Domain.Tests/obj/Debug/netcoreapp2.0/Lyceum.Domain.Tests.csproj.CoreCompileInputs.cache
+/Users/wahabsyed/src/Lyceum/src/Lyceum.Domain.Tests/obj/Debug/netcoreapp2.0/Lyceum.Domain.Tests.AssemblyInfoInputs.cache
+/Users/wahabsyed/src/Lyceum/src/Lyceum.Domain.Tests/obj/Debug/netcoreapp2.0/Lyceum.Domain.Tests.AssemblyInfo.cs
+/Users/wahabsyed/src/Lyceum/src/Lyceum.Domain.Tests/obj/Debug/netcoreapp2.0/Lyceum.Domain.Tests.dll
+/Users/wahabsyed/src/Lyceum/src/Lyceum.Domain.Tests/obj/Debug/netcoreapp2.0/Lyceum.Domain.Tests.pdb
